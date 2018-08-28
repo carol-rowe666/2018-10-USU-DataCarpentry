@@ -5,9 +5,9 @@ venue: "Utah State University - Data Carpentry"        # brief name of host site
 address: "JQL 234 (https://www.usu.edu/map/index.cfm?id=47)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "41.745161,-111.809742"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "41.74386324076171,-111.81012440007183"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Mondays and Wednesdays, Oct. 1-22, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 - 11:00 am"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 - 11:00 am     JQL234"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-10-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-10-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Binod Pokharel", "Betty Rozum", "Curtis Dyreson", "Carol Rowe", "Paul Wolf"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
